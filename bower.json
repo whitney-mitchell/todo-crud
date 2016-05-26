@@ -1,0 +1,21 @@
+{
+  "name": "todo-crud",
+  "homepage": "https://github.com/whitney-mitchell/todo-crud",
+  "authors": [
+    "whitney-mitchell <whitney.mitchell84@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6"
+  }
+}
